@@ -1,10 +1,12 @@
-package com.brunojunqueira.stormy;
+package com.brunojunqueira.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.brunojunqueira.stormy.R;
 
 /**
  * Created by brunojunqueira on 08/07/15.
